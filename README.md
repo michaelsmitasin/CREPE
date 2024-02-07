@@ -11,7 +11,7 @@ Example:
 
 sumologic:syslog:ssh:.re2
 
-Sumologic is using the regular expression
-The logs come from Syslog
-The category of logs is SSH
-The syntax is RE2
+* Sumologic is using the regular expression
+* The logs come from Syslog
+* The category of logs is SSH
+* The syntax is RE2
