@@ -9,7 +9,7 @@ Naming convention:
 
 Example:
 
-sumologic:syslog:ssh:.re2
+sumologic:syslog:ssh.re2
 
 * Sumologic is using the regular expression
 * The logs come from Syslog
